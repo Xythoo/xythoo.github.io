@@ -60,6 +60,7 @@ footer {
     <ul>
         
         <li><a href="https://github.com/Xythoo">github</a></li>
+        <li><a href="downloads">downloads</a></li>
        
     </ul>
 </main>
